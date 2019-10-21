@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-debug-backtrace-reproducer
+  reactor:
+    debug-agent:
+      enabled: false
+    stacktrace-mode:
+      enabled: false
